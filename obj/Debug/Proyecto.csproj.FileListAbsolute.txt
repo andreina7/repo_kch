@@ -1,0 +1,7 @@
+C:\Users\kchiquito\Documents\Cursos Internos\C#\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\kchiquito\Documents\Cursos Internos\C#\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\kchiquito\Documents\Cursos Internos\C#\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\kchiquito\Documents\Cursos Internos\C#\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\kchiquito\Documents\Cursos Internos\C#\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\kchiquito\Documents\Cursos Internos\C#\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\kchiquito\Documents\Cursos Internos\C#\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
